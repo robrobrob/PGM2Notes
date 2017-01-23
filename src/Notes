@@ -7,3 +7,20 @@ Primitive Data types
 >Boolean
 
 Objects
+
+
+-----------
+Binary
+base 2
+
+Byte 8 bits
+
+base 8= 256
+↕︎
+unique valeus 255
+
+-----------
+# of unique values=256
+largest number = 255 in 2/\8
+
+-----------
